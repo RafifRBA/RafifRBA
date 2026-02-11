@@ -19,17 +19,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafifRBA/RafifRBA/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafifRBA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafifRBA/RafifRBA/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="https://raw.githubusercontent.com/RafifRBA/RafifRBA/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafifRBA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafifRBA/RafifRBA/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/RafifRBA/RafifRBA/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafifRBA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <h3 align="left">🐍 Contribution Graph:</h3>
