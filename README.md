@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rafifraihan.alam@gmail.com**
 
-- ⚡ Fun fact **nerd**
+- ⚡ Fun fact **newbie 😔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
