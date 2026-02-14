@@ -19,16 +19,16 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafifRBA&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=RafifRBA&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafifRBA&theme=blueberry" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafifRBA&theme=blueberry" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafifRBA&theme=blueberry" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafifRBA&theme=blueberry" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafifRBA&theme=blueberry" alt="GitHub Profile Summary" />
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafifRBA&theme=blueberry" alt="GitHub Profile Summary" />
 </p>
 <br>
 <h3 align="left">🐍 Contribution Graph:</h3>
