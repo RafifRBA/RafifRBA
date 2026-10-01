@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **hexapod robot competition**
 
-- 🌱 I'm currently learning **Android Studio, NextJS, Cyber Security**
+- 🌱 I'm currently learning **ROS2, NextJS, Cyber Security**
 
 - 📫 How to reach me **rafifraihan.alam@gmail.com**
 
